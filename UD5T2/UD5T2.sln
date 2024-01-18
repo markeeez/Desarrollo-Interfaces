@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UD5T2", "UD5T2\UD5T2.csproj", "{5567A4BD-94E6-4CFC-BF4E-78AC5AE1C9AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5567A4BD-94E6-4CFC-BF4E-78AC5AE1C9AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5567A4BD-94E6-4CFC-BF4E-78AC5AE1C9AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5567A4BD-94E6-4CFC-BF4E-78AC5AE1C9AE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5567A4BD-94E6-4CFC-BF4E-78AC5AE1C9AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5567A4BD-94E6-4CFC-BF4E-78AC5AE1C9AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5567A4BD-94E6-4CFC-BF4E-78AC5AE1C9AE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFD40CA8-D465-4B1D-A7D9-38B0FD3880E0}
+	EndGlobalSection
+EndGlobal
